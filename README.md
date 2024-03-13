@@ -1,16 +1,24 @@
-### Hi there 👋
+## Jecilia Teixeira🌺
+Front-End Developer <br/>
 
-<!--
-**Jecilia/Jecilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <a href="https://www.linkedin.com/in/jec%C3%ADlia-teixeira-839a2a249/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/jeciliateixeira/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://web.facebook.com/jecilia.loped/" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+  <br/>  <br/>
+<p>Entusiasta de tecnologias para desenvolvimento web, estou sempre buscando aprimorar minhas habilidades.<br/> Comprometido em criar soluções eficientes, adoro enfrentar desafios e contribuir para projetos inovadores.<br/>  Vamos conectar e compartilhar ideias no mundo do desenvolvimento web!<br/>  #WebDevelopment #TechEnthusiast</p>
 
-Here are some ideas to get you started:
+## 🚀 Minhas Skills <br/> 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
