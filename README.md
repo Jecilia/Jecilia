@@ -11,7 +11,7 @@ Front-End Developer <br/>
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
   <br/>  <br/>
-<p>Entusiasta de tecnologias para desenvolvimento web, estou sempre buscando aprimorar minhas habilidades.<br/> Comprometido em criar soluções eficientes, adoro enfrentar desafios e contribuir para projetos inovadores.<br/>  Vamos conectar e compartilhar ideias no mundo do desenvolvimento web!<br/>  #WebDevelopment #TechEnthusiast</p>
+<p>Entusiasta de tecnologias para desenvolvimento web, estou sempre buscando aprimorar minhas habilidades.<br/> Comprometida em criar soluções eficientes, adoro enfrentar desafios e contribuir para projetos inovadores.</p>
 
 ## 🚀 Minhas Skills <br/> 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
